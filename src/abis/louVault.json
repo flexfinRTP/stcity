@@ -85,8 +85,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -105,8 +104,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -125,16 +123,14 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
       "name": "deposit",
       "outputs": [],
       "stateMutability": "payable",
-      "type": "function",
-      "payable": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -148,8 +144,7 @@
       "name": "borrow",
       "outputs": [],
       "stateMutability": "payable",
-      "type": "function",
-      "payable": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -5774,8 +5769,7 @@
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2021-12-29T23:16:08.415Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-12-29T23:47:45.524Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
