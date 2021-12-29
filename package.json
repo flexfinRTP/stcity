@@ -1,8 +1,8 @@
 {
-  "name": "dbank",
+  "name": "louvault",
   "version": "0.1.0",
-  "description": "Decentralized Bank",
-  "author": "dev@dappuniversity.com",
+  "description": "LouVault",
+  "author": "justingaffney",
   "homepage": ".",
   "dependencies": {
     "@openzeppelin/contracts": "3.3.0",
